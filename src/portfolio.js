@@ -254,7 +254,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/seedify.png"),
+      image: require("./assets/images/1668511274724 (1).jfif"),
       projectName: "Seedify",
       projectDesc: "IDO Launchpad (BNB) – Helping blockchain projects raise funds through decentralized token sales.",
       footerLink: [
@@ -276,7 +276,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/projectseed.png"),
+      image: require("./assets/images/1748629512965.jfif"),
       projectName: "ProjectSeed",
       projectDesc: "Blockchain Gaming Ecosystem (Ethereum, Solidity) – Powering blockchain-based games and gaming economies.",
       footerLink: [
@@ -287,7 +287,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/seedworld.png"),
+      image: require("./assets/images/download (3).jfif"),
       projectName: "SeedWorld",
       projectDesc: "Blockchain Game (Rust, SPL, Solana, JavaScript, MERN) – Revolutionizing gaming experiences with multi-chain blockchain technology.",
       footerLink: [
@@ -298,7 +298,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/amara.png"),
+      image: require("./assets/images/Amara.jpg"),
       projectName: "Amara Exchange",
       projectDesc: "Perpetual Exchange (Rust, Solana) – A decentralized exchange platform for perpetual trading and crypto assets.",
       footerLink: [
@@ -309,7 +309,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/stormx.png"),
+      image: require("./assets/images/StormX.png‎"),
       projectName: "StormX",
       projectDesc: "Crypto Earning from Shopping Points (Ethereum, Solidity, MERN) – Earn crypto rewards by shopping at top retailers.",
       footerLink: [
@@ -320,7 +320,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/dioneprotocol.png"),
+      image: require("./assets/images/Dione.jfif"),
       projectName: "Dione Protocol",
       projectDesc: "Decentralized finance solutions built on Rust, SPL, and Solana, with high performance and low latency.",
       footerLink: [
@@ -331,7 +331,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/aurus.png"),
+      image: require("./assets/images/aurusofficial_logo.jfif‎"),
       projectName: "Aurus",
       projectDesc: "Precious Metal Tokenization – Bringing real-world assets like gold to the blockchain with tokenized solutions.",
       footerLink: [
@@ -342,7 +342,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/hivello.png"),
+      image: require("./assets/images/hivelloofficial_logo.jfif‎"),
       projectName: "Hivello",
       projectDesc: "DePIN – A decentralized platform designed for privacy and security in digital interactions.",
       footerLink: [
