@@ -23,17 +23,17 @@ const greeting = {
   username: "Danish Hameed",
   title: "Hi all, I'm Danish",
   subTitle: emoji(
-    "A Senior Blockchain & Full-Stack Developer with 8+ years of experience🚀 having an expertise in developing Web 2.0 & Web3.0 Apps, expert in all mainstream blockchains, Solidity, Rust, JavaScript | Reactjs | Nodejs | Angular/Vue | AWS | Azure | DevOps | SQL & NoSQL"
+    "I’m a blockchain engineer with a strong full-stack background, focused on building real, production-ready Web3 products. Over the years, I’ve worked across Ethereum, Solana, and multi-chain ecosystems, shipping DeFi protocols, NFT platforms, exchanges, and scalable dApps. I enjoy solving hard problems, writing clean contracts, and turning complex ideas into systems people actually use."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CMAPzJghgXzVxxzaDCALLuV5K1LABAqR/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1i8MVTu_TdYDKY6VoZcSrmXkJr4BoLUr5/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/NW12",
+  github: "https://github.com/Danish-NW12",
   linkedin: "https://linkedin.com/in/danish-hameed",
   gmail: "danishhameed.arhamsoft@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
@@ -52,14 +52,14 @@ const skillsSection = {
   // subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly scalable solutions Using JavaScript & its frameworks"
+      "⚡Built and shipped production-grade blockchain applications across Ethereum, Solana, and multi-chain ecosystems"
     ),
-    emoji("⚡ Created 100+ Smart Contracts most of them are Audited by Certix"),
+    emoji("⚡ Designed and deployed secure smart contracts in Solidity and Rust, with a strong focus on performance and gas efficiency"),
     emoji(
-      "⚡ Created Several Dapps, Generated million Dollars with Crowd Fundings." 
+      "⚡ Delivered end-to-end dApps including DeFi platforms, NFT marketplaces, and exchanges used by real users at scale" 
     ),
     emoji(
-      "⚡ Extensive experience in deploying dApps in EVM-compatible chains and interacting with L1 and L2 Protocols." 
+      "⚡ Hands-on experience integrating wallets, on-chain data, and backend services to power seamless Web3 products" 
     )
 
   ],
