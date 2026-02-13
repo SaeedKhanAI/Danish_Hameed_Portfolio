@@ -184,10 +184,10 @@ const workExperiences = {
   experience: [
     {
       role: "Lead Blockchain Engineer",
-      company: "Off-Shore Employee",
+      company: "Authic Labs",
       companylogo: require("./assets/images/Offshore.jpg"),
       date: "Jan 2018 – Present",
-      desc: "- My skills extend to launching dreams. I've crafted IDO and ICO launch pads, giving life to innovative projects that transcend conventional boundaries.",
+      desc: "- Developed and optimized Solana smart contracts using Rust, enhancing scalability and performance for high-throughput applications.",
       descBullets: [
         "My expertise spans across EVM-compatible blockchains, from Polygon, Ethereum, Binance, Fantom, to Avalanche. Additionally, my proficiency extends to Solana and Terra Luna, marking my versatility.",
       ]
