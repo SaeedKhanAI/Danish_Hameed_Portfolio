@@ -185,21 +185,21 @@ const workExperiences = {
     {
       role: "Lead Blockchain Engineer",
       company: "Authic Labs",
-      companylogo: require("./assets/images/Offshore.jpg"),
-      date: "Jan 2018 – Present",
+      companylogo: require("./assets/images/authic_logo.jfif"),
+      date: "Oct 2023 – Present",
       desc: "- Developed and optimized Solana smart contracts using Rust, enhancing scalability and performance for high-throughput applications.",
       descBullets: [
-        "My expertise spans across EVM-compatible blockchains, from Polygon, Ethereum, Binance, Fantom, to Avalanche. Additionally, my proficiency extends to Solana and Terra Luna, marking my versatility.",
+        "Implemented SPL tokens and integrated with DeFi protocols, enhancing the Solana ecosystem's scalability and functionality.",
       ]
     },
     {
-      role: "P2E Smart Contract and Front-End Engineer",
-      company: "Dear Monster",
-      companylogo: require("./assets/images/dearmonster.jpg"),
-      date: "Jan 2021 – Dec 2022",
-      desc: "- Created and worked on different NFT protocols that include ERC-721, ERC-1155, ERC-20, and similarly with Binance Bep Protocols such as BEP-721, BEP-1155, BEP-20.",
+      role: "Lead Blockchain Engineer",
+      company: "OffShore Employee",
+      companylogo: require("./assets/images/Offshore.jpg"),
+      date: "Aug 2022 – Sep 2023",
+      desc: "- My skills extend to launching dreams. I've crafted IDO and ICO launch pads, giving life to innovative projects that transcend conventional boundaries.",
       descBullets: [
-        "Implemented Play2Earn and Rewards functionalities with royalty and referral management system.",
+        "My expertise spans across EVM-compatible blockchains, from Polygon, Ethereum, Binance, Fantom, to Avalanche. Additionally, my proficiency extends to Solana and Terra Luna, marking my versatility",
       ]
     },
 
@@ -207,14 +207,14 @@ const workExperiences = {
       role: "Fullstack and Blockchain Developer",
       company: "POINT Labs",
       companylogo: require("./assets/images/pointlabs.jpg"),
-      date: "Feb 2021 – Jun 2022",
+      date: "Jul 2020 – Jul 2022",
       desc: "- Dived into the decentralized universe, mastering Ethereum, Binance Smart Chain, and EVM-compatible blockchains. Engineered innovative DApps and harnessed the power of Solidity and Rust for transformative smart contracts."
     },
     {
       role: "Blockchain and JavaScript Developer",
       company: "Celeix Digital LLC",
       companylogo: require("./assets/images/Celeix.jpg"),
-      date: "Mar 2020 – Feb 2021",
+      date: "Jun 2018 – Jun 2020",
       desc: "",
       descBullets: [
         "Solidity & Rust Development",
@@ -229,11 +229,11 @@ const workExperiences = {
       role: "Fullstack and Blockchain Developer",
       company: "Dribble",
       companylogo: require("./assets/images/dribble.jpeg"),
-      date: "May 2015 – Dec 2017",
+      date: "May 2017 – May 2018",
       desc: "- Followed the SDLC to implement various software techniques.",
       descBullets: [
         "Created many Server-Side applications using Node.js",
-        "- In 2016, Shifted Focus on Ethereum Layer 1 ( Blockchain)",
+        "- In 2018, Shifted Focus on Ethereum Layer 1 ( Blockchain)",
       ]
     }
   ]
@@ -254,69 +254,106 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/Annex.png"),
-      projectName: "Annex Finance",
-      projectDesc: "A Decentralized Marketplace for Lenders and Borrowers with Borderless Stablecoins.",
+      image: require("./assets/images/seedify.png"),
+      projectName: "Seedify",
+      projectDesc: "IDO Launchpad (BNB) – Helping blockchain projects raise funds through decentralized token sales.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://annex.finance/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/dearmonster.jpg"),
-      projectName: "Dear Monsters",
-      projectDesc: "I developed and implemented the first play-to-earn game for users on Binance Blockchain.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://dearmonsters.io/"
+          url: "https://www.seedify.fund/"
         }
       ]
     },
     {
-      image: require("./assets/images/elumnt.jpg"),
-      projectName: "Elumnt",
-      projectDesc: "Multi-chain Digital Art Marketplace",
+      image: require("./assets/images/metamuto.png"),
+      projectName: "Metamuto",
+      projectDesc: "MetaVerse – A platform for creating and exploring decentralized virtual worlds.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://www.elumnt.com/"
+          url: "https://www.metamuto.com/"
         }
       ]
     },
     {
-      image: require("./assets/images/Nexus.png"),
-      projectName: "Nexus Art",
-      projectDesc: "The Nexus Platform exists to empower both creators & collectors, offering an open marketplace for NFT Art, music, games, films & immersive VR & AR experiences",
+      image: require("./assets/images/projectseed.png"),
+      projectName: "ProjectSeed",
+      projectDesc: "Blockchain Gaming Ecosystem (Ethereum, Solidity) – Powering blockchain-based games and gaming economies.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://nexus.art/"
+          url: "https://projectseed.com/"
         }
       ]
     },
     {
-      image: require("./assets/images/Holdex.png"),
-      projectName: "Holdex Finance",
-      projectDesc: "Holdex Finance is a powerful decentralized platform for financial management - featuring an automated market maker, annual percentage yield scanner, auto trading bot and H-staking for easy staking and crypto trading ",
+      image: require("./assets/images/seedworld.png"),
+      projectName: "SeedWorld",
+      projectDesc: "Blockchain Game (Rust, SPL, Solana, JavaScript, MERN) – Revolutionizing gaming experiences with multi-chain blockchain technology.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://www.holdex.finance/"
+          url: "https://seedworld.io/"
         }
       ]
     },
     {
-      image: require("./assets/images/betts2.png"),
-      projectName: "Betts Recruiting",
-      projectDesc: "Betts connects the most extraordinary go-to-market talent with the most innovative companies in the world.",
+      image: require("./assets/images/amara.png"),
+      projectName: "Amara Exchange",
+      projectDesc: "Perpetual Exchange (Rust, Solana) – A decentralized exchange platform for perpetual trading and crypto assets.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://bettsrecruiting.com/"
+          url: "https://amara.exchange/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/stormx.png"),
+      projectName: "StormX",
+      projectDesc: "Crypto Earning from Shopping Points (Ethereum, Solidity, MERN) – Earn crypto rewards by shopping at top retailers.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.stormx.io/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/dioneprotocol.png"),
+      projectName: "Dione Protocol",
+      projectDesc: "Decentralized finance solutions built on Rust, SPL, and Solana, with high performance and low latency.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.dioneprotocol.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/aurus.png"),
+      projectName: "Aurus",
+      projectDesc: "Precious Metal Tokenization – Bringing real-world assets like gold to the blockchain with tokenized solutions.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://aurus.org/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/hivello.png"),
+      projectName: "Hivello",
+      projectDesc: "DePIN – A decentralized platform designed for privacy and security in digital interactions.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.hivello.com/"
+        }
+      ]
+    }
+  ]
+};
         }
       ]
     },
