@@ -257,109 +257,60 @@ const bigProjects = {
       image: require("./assets/images/1668511274724 (1).jfif"),
       projectName: "Seedify",
       projectDesc: "IDO Launchpad (BNB) – Helping blockchain projects raise funds through decentralized token sales.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://www.seedify.fund/"
-        }
-      ]
+      footerLink: [{ name: "Visit Website", url: "https://www.seedify.fund/" }]
     },
     {
       image: require("./assets/images/metamuto.png"),
       projectName: "Metamuto",
       projectDesc: "MetaVerse – A platform for creating and exploring decentralized virtual worlds.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://www.metamuto.com/"
-        }
-      ]
+      footerLink: [{ name: "Visit Website", url: "https://www.metamuto.com/" }]
     },
     {
       image: require("./assets/images/1748629512965.jfif"),
       projectName: "ProjectSeed",
       projectDesc: "Blockchain Gaming Ecosystem (Ethereum, Solidity) – Powering blockchain-based games and gaming economies.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://projectseed.com/"
-        }
-      ]
+      footerLink: [{ name: "Visit Website", url: "https://projectseed.com/" }]
     },
     {
       image: require("./assets/images/download (3).jfif"),
       projectName: "SeedWorld",
-      projectDesc: "Blockchain Game (Rust, SPL, Solana, JavaScript, MERN) – Revolutionizing gaming experiences with multi-chain blockchain technology.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://seedworld.io/"
-        }
-      ]
+      projectDesc: "Blockchain Game (Rust, SPL, Solana, JavaScript, MERN) – Multi-chain blockchain gaming.",
+      footerLink: [{ name: "Visit Website", url: "https://seedworld.io/" }]
     },
     {
       image: require("./assets/images/Amara.jpg"),
       projectName: "Amara Exchange",
-      projectDesc: "Perpetual Exchange (Rust, Solana) – A decentralized exchange platform for perpetual trading and crypto assets.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://amara.exchange/"
-        }
-      ]
+      projectDesc: "Perpetual Exchange (Rust, Solana) – Decentralized perpetual trading platform.",
+      footerLink: [{ name: "Visit Website", url: "https://amara.exchange/" }]
     },
     {
-      image: require("./assets/images/StormX.png‎"),
+      image: require("./assets/images/StormX.png"),
       projectName: "StormX",
-      projectDesc: "Crypto Earning from Shopping Points (Ethereum, Solidity, MERN) – Earn crypto rewards by shopping at top retailers.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://www.stormx.io/"
-        }
-      ]
+      projectDesc: "Crypto rewards platform (Ethereum, Solidity, MERN).",
+      footerLink: [{ name: "Visit Website", url: "https://www.stormx.io/" }]
     },
     {
       image: require("./assets/images/Dione.jfif"),
       projectName: "Dione Protocol",
-      projectDesc: "Decentralized finance solutions built on Rust, SPL, and Solana, with high performance and low latency.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://www.dioneprotocol.com/"
-        }
-      ]
+      projectDesc: "High-performance DeFi solutions built on Rust and Solana.",
+      footerLink: [{ name: "Visit Website", url: "https://www.dioneprotocol.com/" }]
     },
     {
-      image: require("./assets/images/aurusofficial_logo.jfif‎"),
+      image: require("./assets/images/aurusofficial_logo.jfif"),
       projectName: "Aurus",
-      projectDesc: "Precious Metal Tokenization – Bringing real-world assets like gold to the blockchain with tokenized solutions.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://aurus.org/"
-        }
-      ]
+      projectDesc: "Precious metal tokenization platform.",
+      footerLink: [{ name: "Visit Website", url: "http://aurus.org/" }]
     },
     {
-      image: require("./assets/images/hivelloofficial_logo.jfif‎"),
+      image: require("./assets/images/hivelloofficial_logo.jfif"),
       projectName: "Hivello",
-      projectDesc: "DePIN – A decentralized platform designed for privacy and security in digital interactions.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://www.hivello.com/"
-        }
-      ]
+      projectDesc: "DePIN decentralized platform focused on privacy and security.",
+      footerLink: [{ name: "Visit Website", url: "https://www.hivello.com/" }]
     }
-  ]
-},
-        }
-      ]
-    },
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true
 };
+
 
 // Achievement Section
 // Include certificates, talks etc
