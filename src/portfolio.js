@@ -353,7 +353,7 @@ const bigProjects = {
       ]
     }
   ]
-};
+},
         }
       ]
     },
