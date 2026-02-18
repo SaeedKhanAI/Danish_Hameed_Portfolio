@@ -260,7 +260,7 @@ const bigProjects = {
       footerLink: [{ name: "Visit Website", url: "https://www.seedify.fund/" }]
     },
     {
-      image: require("./assets/images/metamuto.png"),
+      image: require("./assets/images/1668511274724%20(1).jfif,
       projectName: "Metamuto",
       projectDesc: "MetaVerse – A platform for creating and exploring decentralized virtual worlds.",
       footerLink: [{ name: "Visit Website", url: "https://www.metamuto.com/" }]
