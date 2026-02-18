@@ -254,7 +254,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/1668511274724 (1).jfif"),
+      image: require("./assets/images/seedify_logo.jfif"),
       projectName: "Seedify",
       projectDesc: "IDO Launchpad (BNB) – Helping blockchain projects raise funds through decentralized token sales.",
       footerLink: [{ name: "Visit Website", url: "https://www.seedify.fund/" }]
