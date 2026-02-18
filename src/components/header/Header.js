@@ -73,7 +73,7 @@ function Header() {
             <a href="#contact">Contact Me</a>
           </li>
           <li>
-            <a href="https://calendly.com/danishhameed" target="_blank">Let's Talk</a>
+            <a href="https://calendly.com/danishhameed" target="_blank" rel="noreferrer">Let's Talk</a>
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
